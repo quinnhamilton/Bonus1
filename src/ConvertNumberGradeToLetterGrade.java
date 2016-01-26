@@ -8,6 +8,7 @@ import java.util.Scanner;
  * @author Harley Quinn 
  * Purpose: This application asks a user for a number grade
  *          and converts that number grade to a letter grade.
+ *          (making a change for the purposes of this Git demo
  */
 public class ConvertNumberGradeToLetterGrade {
 
